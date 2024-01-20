@@ -1,4 +1,9 @@
-I make work about human irrationality, usually in confrontation with logical systems. My favorite medium is the esolang: programming language design as a means of expression and experimentation. A few examples:
+## What I do
+
+I make work about human irrationality, usually in confrontation with logical systems. 
+
+## What You'll Find Here
+My favorite medium is the esolang: programming language design as a means of expression and experimentation. A few examples:
 
 * <a href="https://github.com/rottytooth/Folders">Folders</a> (2015), where code is written only in the combination of folders within folders, ignoring files and text
 * <a href="https://github.com/rottytooth/FatFingerJS">FatFinger</a> (2017), a dialect of JavaScript that forgives, and encourages, typos and misspellings
@@ -7,6 +12,10 @@ I make work about human irrationality, usually in confrontation with logical sys
 * <a href="https://github.com/rottytooth/Time-Out">Time Out</a> (2015), where code is written in the increments of time that lines of code in another language take to run
 * There are many more, some public here already, others to release with my book in late 2025
 
+## Outside Links
+
 For ten years, I wrote about esolangs for my blog, <a href="https://esoteric.codes">esoteric.codes</a>.
 
-My artwork is collected on my website, <a href="https://danieltemkin.com">danieltemkin.com</a> and <a href="https://www.instagram.com/danieltemkin_/">my IG</a>.
+See my artwork: 
+  * My website, <a href="https://danieltemkin.com">danieltemkin.com</a>
+  * <a href="https://www.instagram.com/danieltemkin_/">My IG</a>.
