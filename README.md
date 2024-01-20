@@ -9,4 +9,4 @@ I make work about human irrationality, usually in confrontation with logical sys
 
 For ten years, I wrote about esolangs for my blog, <a href="https://esoteric.codes">esoteric.codes</a>.
 
-Seen more on my website, <a href="https://danieltemkin.com>danieltemkin.com</a>
+Seen more on my website, <a href="https://danieltemkin.com">danieltemkin.com</a>.
