@@ -5,7 +5,9 @@ I make work about human irrationality, usually in confrontation with logical sys
 ## What You'll Find Here
 My favorite medium is the esolang: programming language design as a means of expression and experimentation. A few examples:
 
-* <a href="https://github.com/rottytooth/Valence">Valence</a> (2024), a programming language that brings structural ambiguity of spoken language to code</a>
+* <a href="https://github.com/rottytooth/Valence">Valence</a> (2024), a programming language that brings structural ambiguity of spoken language to code
+
+* <a href="https://github.com/rottytooth/Rivulet">Rivulet</a> (2024), a language of flowing strands, written in semigraphic characters
 
 * <a href="https://github.com/rottytooth/Folders">Folders</a> (2015), where code is written only in the combination of folders within folders, ignoring files and text
  
